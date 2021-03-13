@@ -7,10 +7,10 @@ For a  leading Fashion retailer in Australia. MiQ runs a display advertising cam
 
 - 1.	Provide an overview of the brand's sales by the following attributes:
 
-•	Overall - Total Sales and Revenue in the given time period 
-•	Basket - Avg. unique quantity, revenue per order.
-•	Attributes - Time of Day, Day of Week, Geography, Payment Type
-•	Frequency - How many are single/multiple purchasers? What is the frequency of multi-purchase? Any typical attributes?
+    •	Overall - Total Sales and Revenue in the given time period 
+    •	Basket - Avg. unique quantity, revenue per order.
+    •	Attributes - Time of Day, Day of Week, Geography, Payment Type
+    •	Frequency - How many are single/multiple purchasers? What is the frequency of multi-purchase? Any typical attributes?
 
 - 2.	Product Affinity – Which products are more likely to sell together?
 
